@@ -1,0 +1,4 @@
+require:
+  - wp-cli/browse-command.php
+@www.pulgin.vccw:
+  ssh: vagrant:www.pulgin.vccw:/var/www/html
